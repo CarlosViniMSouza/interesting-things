@@ -2,7 +2,7 @@
 Here are interesting links!
 
 <details> 
-  <summary> ⚗️&nbsp; Sites para Desafios e Aprendizados : </summary>
+  <summary> ⚗️&nbsp; Sites for Challenges and Learning : </summary>
   <br/>
 
 &nbsp; <a href="http://www.hackerearth.com/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/3033794?s=200&v=4" width="60"/></a>
@@ -27,7 +27,7 @@ Here are interesting links!
 </details>
 
 <details> 
-  <summary> 📢&nbsp; Sites para Encontrar Empregos : </summary>
+  <summary> 📢&nbsp; Sites to Find Jobs : </summary>
   <br/>
 
 &nbsp; <a href="https://www.glassdoor.com.br/index.htm" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/Glassdoor.png" width="90" height="90"/></a>
